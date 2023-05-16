@@ -1,0 +1,84 @@
+body {
+    background-image: url('https://cdn.vox-cdn.com/thumbor/3pQWmXgJzGBWl5Jg_x2imgjwgX0=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/676408/3239824.0.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: sticky;
+    background-attachment: fixed;
+    background-position-y: -10em;
+}
+
+.header1941 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    color: white;
+}
+
+.header1941 span {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.buttonIndex {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    font-size: 2.5em;
+    color: white;
+    font-style: italic;
+    float: left;
+}
+
+.buttonNext {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    font-size: 2.5em;
+    color: white;
+    font-style: italic;
+    float: right;
+}
+
+.countryhead {
+    font-size: 2.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.countryhead span {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.sovietFlag {
+    float: left;
+    margin-left: 15em;
+    border: 2px solid black;
+    border-radius: 1.5em;
+}
+
+.naziFlag {
+    float: right;
+    margin-right: 15em;
+    border: 2px solid black;
+    border-radius: 1.5em;
+}
+
+.dateHead {
+    font-size: 2.5em;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dateHead span {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.infoText {
+    font-size: 2em;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.infoText span {
+    background-color: rgba(0, 0, 0, 0.5);
+}
